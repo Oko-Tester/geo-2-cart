@@ -33,7 +33,7 @@ Eine moderne, minimalistische Web-Anwendung zur bidirektionalen Konvertierung zw
 
 ```bash
 # Repository klonen
-git clone https://github.com/Oko-Tester/geo2cart.git
+git clone https://github.com/Oko-Tester/geo-2-cart.git
 cd geo2cart
 
 # Dependencies installieren
@@ -167,6 +167,7 @@ Beiträge sind willkommen! Bitte erstelle einen Pull Request oder öffne ein Iss
 **[Oko-Tester]**
 
 - GitHub: [@Oko-Tester](https://github.com/Oko-Tester)
+- Webseite: [Geo2Cart](https://geo2cart.okotester.de)
 
 ## 🙏 Danksagungen
 
