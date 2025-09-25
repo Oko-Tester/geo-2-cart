@@ -20,7 +20,7 @@ Eine moderne, minimalistische Web-Anwendung zur bidirektionalen Konvertierung zw
 
 ## 🚀 Live Demo
 
-[🌐 Geo2Cart Live](https://Oko-Tester.github.io/geo2cart)
+[🌐 Geo2Cart Live](https://geo2cart.okotester.de/)
 
 ## 📦 Installation
 
