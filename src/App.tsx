@@ -645,6 +645,23 @@ export default function App() {
         </a>
         <span style={{ margin: "0 0.5rem" }}>•</span>
         <span>Oko-Tester</span>
+
+        <h3>Impressum</h3>
+        <p>
+          <strong>Kontakt</strong>
+        </p>
+        <p>
+          E-Mail:
+          <a href="mailto:okotestproduction@gmail.com">
+            okotestproduction@gmail.com
+          </a>
+        </p>
+
+        <p>
+          <small>
+            Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV: Alexander Remer
+          </small>
+        </p>
       </footer>
     </div>
   );
